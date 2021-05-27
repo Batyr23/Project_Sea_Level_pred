@@ -1,4 +1,4 @@
-The project is about Sea level prediction by the linear regression
+The project is about Sea level prediction by the linear regression/n
 We used Data analyzing tools and some several libraries to do it
 
 <h2>Global Average Absolute Sea Level Change</h2>
